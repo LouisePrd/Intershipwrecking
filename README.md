@@ -1,2 +1,2 @@
 # Intershipwrecking
-![image](https://github.com/user-attachments/assets/63e2b241-6343-4250-bd2e-4ca4480cd545)
+![django](https://github.com/user-attachments/assets/a7ad820c-4ded-4ddf-acad-c1bb11f43c12)
